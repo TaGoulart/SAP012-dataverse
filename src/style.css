@@ -174,7 +174,7 @@ h1 {
   border-bottom-left-radius: 15px;
 }
 
-.header-filter__select label {
+.header-filter__select label { /*seletores de classe*/
   height: 100%;
   width: 100%;
   display: flex;
